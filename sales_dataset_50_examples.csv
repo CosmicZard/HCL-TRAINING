@@ -1,0 +1,51 @@
+Order_ID,Order_Date,Customer_Name,Region,Product,Category,Quantity,Unit_Price_INR,Discount_Rate,Payment_Method
+1001,2026-01-03,Aarav Sharma,North,Laptop,Electronics,1.0,54999.0,0.05,UPI
+1002,2026-01-04,Meera Singh,West,Office Chair,Furniture,2.0,7999.0,0.1,Credit Card
+1003,2026-01-05,Kabir Verma,South,Notebook,Stationery,10.0,55.0,0.0,Cash
+1004,2026-01-06,Ananya Gupta,East,Wireless Mouse,Electronics,3.0,899.0,0.05,UPI
+1005,2026-01-07,  Rohan Patel  ,North,Desk Lamp,Home,2.0,1299.0,0.0,Debit Card
+1006,2026-01-08,Ishita Rao,West,Water Bottle,Accessories,4.0,499.0,0.1,UPI
+1007,2026-01-09,Dev Malhotra,South,Keyboard,Electronics,1.0,2499.0,0.05,Credit Card
+1008,2026-01-10,Priya Nair,East,Backpack,Accessories,2.0,1899.0,0.0,Cash
+1009,2026-01-11,Arjun Mehta,north,Monitor,Electronics,1.0,12999.0,0.1,UPI
+1010,2026-01-12,Sara Khan,West,Pen Set,Stationery,5.0,199.0,0.0,Debit Card
+1011,2026-01-13,Vikram Joshi,South,Bookshelf,Furniture,1.0,6499.0,0.05,Credit Card
+1012,2026-01-14,Neha Kapoor,East,Headphones,Electronics,2.0,1999.0,0.1,UPI
+1013,2026-01-15,Aditya Das,North,Coffee Mug,Home ,6.0,249.0,0.0,Cash
+1014,2026-01-16,Simran Kaur,West,USB Drive,Electronics,3.0,699.0,0.05,Debit Card
+1015,2026-01-17,Manav Iyer,South,Dining Table,Furniture,1.0,18999.0,0.1,Credit Card
+1016,2026-01-18,Tanya Roy,East,Sticky Notes,Stationery,8.0,75.0,0.0,UPI
+1017,2026-01-19,Yash Bansal,North,Smartphone,Electronics,1.0,32999.0,0.05,upi
+1018,2026-01-20,Pooja Reddy,West,Cushion,Home,3.0,599.0,0.1,Cash
+1019,2026-01-21,Kunal Sethi,South,Printer,Electronics,1.0,8999.0,0.0,Debit Card
+1020,2026-01-22,Aditi Mishra,East,File Folder,Stationery,,45.0,0.05,UPI
+1021,2026-01-23,Rahul Chawla,North,Tablet,Electronics,1.0,21999.0,0.1,Credit Card
+1022,2026-01-24,Nisha Jain,West,Study Desk,Furniture,1.0,8999.0,0.05,UPI
+1023,2026-01-25,Sahil Yadav,South,Marker Pack,Stationery,4.0,149.0,0.0,Cash
+1024,2026-01-26,Diya Bose,East,Power Bank,Electronics,2.0,,0.1,Debit Card
+1025,2026-01-27,Harsh Tiwari,North,Wall Clock,Home,1.0,999.0,0.0,Credit Card
+1026,2026-01-28,Mira Fernandes,West,Travel Adapter,Accessories,2.0,799.0,0.05,UPI
+1027,2026-01-29,Om Prakash,South,Webcam,Electronics,1.0,3499.0,0.1,Credit Card
+1028,2026-01-30,Riya Sen,East, planner ,Stationery,3.0,299.0,0.0,Cash
+1029,2026-01-31,Aman Gill,North,Sofa,Furniture,1.0,27999.0,0.05,Debit Card
+1030,2026-02-01,Kavya Pillai,West,Bluetooth Speaker,Electronics,2.0,2499.0,0.1,UPI
+1031,2026-02-02,Nitin Sood,South,Lunch Box,Accessories,3.0,399.0,0.0,Cash
+1032,2026-02-03,Shreya Dutta,East,Router,Electronics,1.0,2199.0,1.2,Credit Card
+1033,2026-02-04,Kartik Rao,North,Bedside Table,Furniture,2.0,3499.0,0.1,UPI
+1034,2026-02-05,Lavanya Shah,West,Highlighter Set,Stationery,2.0,179.0,0.0,Debit Card
+1035,2026/02/06,Rehan Ali,South,Smartwatch,Electronics,1.0,6999.0,0.05,Credit Card
+1036,2026-02-07,Ira Mukherjee,East,Floor Mat,Home,2.0,899.0,0.1,UPI
+1037,2026-02-08,Parth Desai,North,External SSD,Electronics,1.0,5999.0,0.0,Credit Card
+1038,2026-02-09,Sanya Arora,West,Pen Drive,Electronics,4.0,499.0,0.05,Cash
+1038,2026-02-10,Abhishek Roy,South,Recliner,Furniture,1.0,22999.0,0.1,Debit Card
+1040,2026-02-11,Zoya Mirza,East,Scissors,Stationery,3.0,99.0,0.0,UPI
+1041,2026-02-12,Samar Khanna,North,Gaming Headset,Electronics,1.0,4499.0,0.05,Credit Card
+1042,2026-02-13,Ayesha Thomas,,Curtains,Home,2.0,1499.0,0.1,UPI
+1043,2026-02-14,Dhruv Saxena,South,Filing Cabinet,Furniture,1.0,7499.0,0.0,Debit Card
+1044,2026-02-15,Myra Chatterjee,East,Calculator,Stationery,2.0,599.0,0.05,Cash
+1045,2026-02-16,Ritesh Pandey,North,Smart TV,Electronics,-1.0,38999.0,0.1,Credit Card
+1046,2026-02-17,Tara Menon,West,Air Purifier,Home,1.0,8999.0,0.05,UPI
+1047,2026-02-18,Gaurav Sinha,South,Wireless Earbuds,Electronics,2.0,1799.0,0.0,Debit Card
+1048,2026-02-19,Anika  Paul,East,Document Tray,Stationery,5.0,249.0,0.1,Cash
+1049,2026-02-20,Siddharth Jain,North,Refrigerator,Electronics,1.0,24999.0,0.05,Credit Card
+1050,2026-02-21,Kriti Sengar,West,Books,Stationery,4.0,399.0,0.0,UPI 
